@@ -1,0 +1,24 @@
+h1{
+    color: blue;
+}
+h2{
+    color: brown;
+}
+.content{
+    color: chartreuse;
+}
+#geo{
+    color: darkcyan;
+}
+span{
+    color: darkred;
+}
+.text{
+    color: gold;
+}
+.text_orange{
+    color: orange;
+}
+.text > span{
+    color: orangered;
+}
